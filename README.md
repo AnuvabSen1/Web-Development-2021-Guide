@@ -94,7 +94,7 @@ OK no time to waste and time to start learning # I will learn with you # cos it'
 
 
 
-## The Building Blocks ([7:10](https://www.youtube.com/watch?v=0pThnRneDjw&t=430s))
+## The Building Blocks
 ![Slide 4](img/slide-4.jpg)
 
 ### HTML
